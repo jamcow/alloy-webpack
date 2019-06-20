@@ -1,4 +1,9 @@
-_site/
-.sass-cache/
+_dist
+.sass-cache
 .jekyll-cache/
 .jekyll-metadata
+node_modules/
+yarn-error.log
+_src/assets/js/
+_src/assets/css/
+_data/mix-manifest.json

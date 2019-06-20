@@ -9,6 +9,7 @@ Future work aiming to have standalone Jekyll and concurrent Sass compilation for
 ## Current issues
 
 * Jekyll doesn't trigger refresh on HTML change, Sass/JS does
+* possible related [path config issue](https://github.com/JeffreyWay/laravel-mix/issues/951)
 
 ## Features
 
